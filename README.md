@@ -4,7 +4,8 @@ The object of this module is to teach you some basics on how to use Git, at leas
 
 1. Install git on your computer and make sure you can call it from the command prompt.
 2. Clone this repository (Git-Training) - you may have to set git.config parameters on your Terminal/Command Prompt.
-3. Create a branch with your name and initials (eg., for John Doe, your branch name should be set to 'John-D')
+3.  Create a branch with your name and initials (eg., for John Doe, your branch name should be set to 'John-D')
+  - Hint: HTTPS Cloning link is https://github.com/Avionics-Propulsion-Landers-GT/Git-Training.git
 4. Use git checkout to move to that branch.
 5. Add a file with your name ('John-D') as the filename, commit it, and push it to YOUR branch (not main)
 6. Finally, make a separate push to put your branch up to date with the main branch.
